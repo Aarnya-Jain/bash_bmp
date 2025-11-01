@@ -40,7 +40,7 @@ cat <ascii_text_file.txt> | ./ascii_to_bmp.sh -o <output_file_path.bmp>
 
 PS:
 
-This repository contains the code implementation of the BMP generator shown in the referenced video.
+This repository contains the reimplementation of the BMP generator shown in the referenced video.
 It is created purely for learning purposes.
 
 For deeper understanding, refer to the original sources:
